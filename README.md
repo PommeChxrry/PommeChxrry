@@ -8,4 +8,4 @@ I'm Alix, welcome to my GitHub. I'm a developper who wants to learn and build. T
 [![What I'm Learning](https://skillicons.dev/icons?i=blender,electron,figma,nodejs)](https://skillicons.dev)
 
 ## GitHub Stats 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PommeChxrry&layout=compact&theme=nord))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PommeChxrry&layout=compact&theme=nord)
